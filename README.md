@@ -1,2 +1,2 @@
 # Learn OpenCV
-[X] Getting started with opencv
+- [x] Getting started with opencv
